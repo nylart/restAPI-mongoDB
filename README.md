@@ -1,5 +1,5 @@
 # restAPI-mongoDB
-Creating a rest API with Java and Mongo DB. This project was done using Eclipse.
+Creating a rest API with Java and Mongo DB. This project was just a way for me to learn rest APIs and connecting to a Mongo database. I utilize the Swagger API docs to use my GET, POST, PUT, and DELETE functions.
 
 ## Software
 * Eclipse
