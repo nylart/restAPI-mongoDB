@@ -22,9 +22,9 @@ Creating a rest API with Java and Mongo DB. This project was done using Eclipse.
 * Targeted Runtimes: Apache Tomcat v7.0
 5. Open up your local terminal, navigate to your MongoDB/Server/3.6/bin folder (usually in C:/Program Files).
 6. Run the following command in terminal:
-'''
-mongod
-'''
+```
+$ mongod
+```
 7. In Eclipse, right click the workspace folder, go to "Run as..." and click "Run on Server"
 8. An "Hello World" website will pop up in Eclipse. Add '/api-docs/' to the end of the url.
 9. You can now use the Swagger API docs to retrieve a user or all users, create a user, remove a user, and update a user.
